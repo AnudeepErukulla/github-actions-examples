@@ -1,5 +1,7 @@
 name: lint
 
+run-name: Basic validation of pull request
+
 on: [pull_request]
 
 jobs:
