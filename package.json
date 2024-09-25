@@ -1,0 +1,26 @@
+{
+  "name": "github-actions-examples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnudeepErukulla/github-actions-examples.git"
+  },
+  "author": "anudeep",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnudeepErukulla/github-actions-examples/issues"
+  },
+  "homepage": "https://github.com/AnudeepErukulla/github-actions-examples#readme",
+  "devDependencies": {
+    "@eslint/js": "^9.11.1",
+    "eslint": "^9.11.1",
+    "eslint-plugin-react": "^7.36.1",
+    "globals": "^15.9.0"
+  }
+}
